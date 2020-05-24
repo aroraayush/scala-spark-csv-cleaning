@@ -1,1 +1,4 @@
-# apache-spark-csv-cleaning
+mkdir and cd, then
+```
+gradle init --type scala-library
+```
